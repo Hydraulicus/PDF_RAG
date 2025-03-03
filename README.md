@@ -1,4 +1,5 @@
-# pythonProject1
+# Demo LangChain App
+https://www.youtube.com/watch?v=UwgZmrRAgQ4
 
 ## Installation
 
